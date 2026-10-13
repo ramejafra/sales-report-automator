@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.mypy_cache/
+
+# Salidas generadas por la herramienta
+output/
+!data/sample_sales_data.csv
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
